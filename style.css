@@ -21,13 +21,16 @@ body {
 
 .banner-title {
     font-size: 80px;
+    font-weight: bolder;
 }
 
-.banner-sad {
-    font-size: 35px;
+.banner-iii {
+    font-size: 45px;
+    font-weight: bolder;
 }
 
 .button-design {
+    width: 80px;
     padding: 10px 20px;
     background-color: rgb(194, 28, 55);
     border-radius: 5px;
