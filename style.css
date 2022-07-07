@@ -73,6 +73,10 @@ body {
 
 }
 
+li {
+    list-style: none;
+}
+
 .section-2-input {
     text-align: center;
     color: lightgrey;
